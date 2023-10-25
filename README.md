@@ -7,3 +7,4 @@ EUROPEAN BUS TRANSPORT BOOKING
   -> it's duration of journey
   -> The price according to adult and child fare
   -> Number of seats available at that particular bus
+DONE BY YASHWANTH AND HARIKA OF 2ND YEAR IT-A
